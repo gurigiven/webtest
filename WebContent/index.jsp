@@ -15,7 +15,8 @@
          <li>2</li>
          <li>3</li>
          <li>4</li>
-         <li>6</li>
+         <li>다</li>
+         <li>라</li>
       </ul>
    </div>
 </body>
